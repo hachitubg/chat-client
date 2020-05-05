@@ -11,7 +11,7 @@
     "gh-pages": "^1.0.0",
     "react": "^16.8.6",
     "jquery": "^3.2.1",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.13",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1",
     "socket.io-client": "^2.0.4"
